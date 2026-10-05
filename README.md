@@ -369,6 +369,5 @@ Bu proje **MIT Lisansı** kapsamında lisanslanmıştır. Detaylı bilgi için [
 
 Sorularınız, iş birliği ve hata bildirimleri için:
 
-- **Takım:** Teknofest Havacılıkta Yapay Zekâ Ekibi
-- **E-posta:** iletisim@example.com
-- **Proje Bağlantısı:** [GitHub Repository](https://github.com/kullanici-adi/teknofest-nesne-tespiti)
+- **E-posta:** rasimrahimli07@gmail.com
+- **Proje Bağlantısı:** [GitHub Repository](https://github.com/Rassmm/teknofest-nesne-tespiti)
